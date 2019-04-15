@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://betahbaeyo.christopherroach.com/sitemap.xml
